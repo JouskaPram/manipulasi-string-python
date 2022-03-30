@@ -1,0 +1,1 @@
+print('dia berkata:"Pergillah"')

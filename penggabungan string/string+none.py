@@ -1,0 +1,1 @@
+print("sekarang tahun" + str(2022))
